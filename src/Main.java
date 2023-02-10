@@ -39,6 +39,8 @@ public class Main {
             }
             System.out.println(baconIdxList);
             System.out.println(actorIdxList);
+            System.out.println(baconIdxList);
+            System.out.println(actorIdxList);
             if (min == Integer.MAX_VALUE){
                 System.out.println("No Results Found");
             }
